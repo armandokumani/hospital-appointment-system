@@ -1,0 +1,5 @@
+# Database Configuration Example
+# Copy to db.properties or set as environment variables
+DB_URL=jdbc:mysql://localhost:3306/login_schema?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+DB_USER=root
+DB_PASSWORD=your_password_here
